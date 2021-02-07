@@ -1,0 +1,2 @@
+# CompetitiveProgrammingDocs
+Documents about competitive programming
